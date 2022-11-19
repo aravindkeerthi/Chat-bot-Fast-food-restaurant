@@ -118,7 +118,7 @@ module.exports = class ShwarmaOrder extends Order{
             else{
               this.stateCur = OrderState.CONFIRM;
               this.sSize = "large";
-              this.sPrize += 5;
+              this.sPrize += 7;
               aReturn.push("Would you like to Order anything else?");
             }
             break;   
