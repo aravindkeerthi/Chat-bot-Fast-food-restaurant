@@ -145,7 +145,7 @@ module.exports = class ShwarmaOrder extends Order{
           else if(sInput == "yes"){
             this.stateCur = OrderState.PAYMENT;
             this.sICECREAM = "Icecream";
-            this.sPrize += 2;
+            this.sPrize += 3;
             aReturn.push("Thank-you for your order of");
             aReturn.push(`${this.sItem1} ${this.sType1} ${this.sSausetype}  ${this.sItem2} ${this.sType2} ${this.sSize} with a Vanilla ${this.sICECREAM} and Total Cost of ${this.sPrize} `);
             aReturn.push(`Please pay for your order here`);
