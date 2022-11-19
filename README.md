@@ -13,7 +13,8 @@ Visual Studio Code, NodeJS and Express JS
 ```sh
 $ git clone https://github.com/aravindkeerthi/Chat-bot-Fast-food-restaurant.git
 $ cd Chat-bot-Fast-food-restaurant
-![Screenshot 2022-11-18 224104](https://user-images.githubusercontent.com/114771900/202832745-b8c5b267-831c-4242-9413-0ca457afd509.png)
+![Screenshot 2022-11-18 224104](https://user-images.githubusercontent.com/114771900/202832880-c0d5b871-61f1-4206-b036-b3a70a4f9684.png)
+
 
 ```
 ### 2. Setup paypal account
