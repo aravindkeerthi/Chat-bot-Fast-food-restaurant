@@ -1,29 +1,24 @@
-# Chat bot for Fast-food restaurant
+# <a href="https://github.com/rhildred/ES6OrderBot" target="_blank">ES6 Order Bot</a>
 
-## Purpose
-The main idea of the project is to create a chat bot to order food items that are available in the restaurant. The menu items will have various varieties and sizes which can be available based on the user input. Once ordering is done, user will be even redirected to a paypal payment page and once the transaction completes it will then sends a delivery message with all the details.
+I got the user interface for the web from a student of mine, Pat Wilken.
 
+To run:
 
-## Prerequisites
+1. Sign up for paypal developer sandbox and get a client id
+2. The first time run `npm install`
+3. `SB_CLIENT_ID=<put_in_your_client_id> npm start`
 
-Visual Studio Code
+## Assignment 2
 
-## Steps
+Extend the order bot from assignment 1. You need to have at least 2 items on the menu unless your favourite food is pizza in which case you need to have 3 (I did pizza already). The menu items need to have size and one other attribute like toppings. You also need an up-sell item like drinks in the example.
 
-### 1. Clone the source code
-```sh
-$ git clone https://github.com/aravindkeerthi/Hardware-store.git
-$ cd Hardware-store
-```
-### 2. Set up paypal account
-Sign up for paypal developer sandbox and get a client id
+For Assignment 2 you need to add paypal and a payment screen as in the scaffold.
 
-### 3. Install npm and run
-```sh
-$ npm install
-```
+### Marking
 
-### 4. Run with client id
-```sh
-$ SB_CLIENT_ID=<put_in_your_client_id> npm start
-```
+basic order for an item with payment in a zip (65%)
+calculation of amount (up to 10%)
+error handling (up to 10%)
+get the delivery address from paypal's shipping address (up to 15%)
+
+There is a brief [presentation here](ES6Templates.pdf).
