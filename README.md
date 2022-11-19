@@ -13,12 +13,12 @@ Visual Studio Code, NodeJS and Express JS
 ```sh
 $ git clone https://github.com/aravindkeerthi/Chat-bot-Fast-food-restaurant.git
 $ cd Chat-bot-Fast-food-restaurant
-
-
+![Screenshot 2022-11-18 224104](https://user-images.githubusercontent.com/114771900/202832745-b8c5b267-831c-4242-9413-0ca457afd509.png)
 
 ```
 ### 2. Setup paypal account
  Sign up for paypal developer sandbox and get a client id
+![Screenshot 2022-11-18 224725](https://user-images.githubusercontent.com/114771900/202832844-4871aa39-1d7f-430d-96ce-ac85625687cc.png)
 
 ### 3. Install npm and run
 ```sh
