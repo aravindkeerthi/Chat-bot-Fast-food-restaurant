@@ -1,8 +1,7 @@
 # Chat-bot-Fast-food-restaurant
 
 ## Purpose
-The main idea of the project is to develop a chat order bot for a fast-food restaurant. In this the user can select 2 types of food items from the menu with varied flavours and sizes.
-Then the user will be redirected to the paypal payment page with their order details. Once the payment is successfully finished then the user will receive the order confirmation and delivery details.
+The main idea of the project is to develop a chat order bot for a fast-food restaurant.
 
 ## Prerequisites
 
